@@ -1,0 +1,6 @@
+*.png
+*.zip
+*.pth
+code
+vscode_cli.tar.gz vscode_cli.tar.gz
+!results/*.pngvscode_cli.tar.gz
